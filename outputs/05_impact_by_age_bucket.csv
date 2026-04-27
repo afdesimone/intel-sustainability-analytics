@@ -1,0 +1,4 @@
+"device_age_bucket","total_devices_repurposed","average_device_age","average_energy_savings_kwh","total_energy_savings_kwh","average_co2_saved_metric_tons","total_co2_saved_metric_tons"
+newer,317191,2.28,19.07,6049253.50,0.0083,2642.09
+mid-age,264310,4.73,32.04,8468884.70,0.0140,3701.19
+older,20239,7.30,48.02,971908.60,0.0210,425.14

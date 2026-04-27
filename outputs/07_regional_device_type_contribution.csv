@@ -1,0 +1,7 @@
+"region","device_type","total_devices_repurposed","total_energy_savings_kwh","total_co2_saved_metric_tons","pct_of_regional_energy_savings","pct_of_regional_co2_savings"
+Asia,Laptop,130989,3384786.40,2030.87,68.05,68.05
+Asia,Desktop,61892,1589359.50,953.61,31.95,31.95
+Europe,Laptop,74225,1916048.10,479.02,68.03,68.03
+Europe,Desktop,35156,900360.50,225.09,31.97,31.97
+North America,Laptop,202850,5227951.10,2091.21,67.90,67.90
+North America,Desktop,96628,2471541.20,988.63,32.10,32.10

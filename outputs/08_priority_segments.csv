@@ -1,0 +1,19 @@
+"region","device_type","device_age_bucket","total_devices_repurposed","average_energy_savings_kwh","total_energy_savings_kwh","average_co2_saved_metric_tons","total_co2_saved_metric_tons"
+North America,Laptop,mid-age,85352,33.01,2817158.90,0.0132,1126.87
+Asia,Laptop,mid-age,54983,33.13,1821633.90,0.0199,1092.99
+North America,Laptop,newer,111277,18.89,2102133.60,0.0076,840.87
+Asia,Laptop,newer,72032,18.95,1364857.00,0.0114,818.91
+North America,Desktop,mid-age,46287,30.09,1392589.40,0.0120,557.04
+Asia,Desktop,mid-age,29719,30.28,899781.30,0.0182,539.86
+North America,Desktop,newer,46438,19.45,903096.50,0.0078,361.24
+Asia,Desktop,newer,29669,19.38,575056.60,0.0116,345.03
+Europe,Laptop,mid-age,31070,33.07,1027393.00,0.0083,256.85
+Europe,Laptop,newer,40963,19.03,779585.40,0.0048,194.90
+Europe,Desktop,mid-age,16899,30.20,510328.20,0.0075,127.58
+North America,Laptop,older,6221,49.62,308658.60,0.0198,123.46
+Asia,Laptop,older,3974,49.90,198295.50,0.0299,118.98
+Europe,Desktop,newer,16812,19.30,324524.40,0.0048,81.13
+North America,Desktop,older,3903,45.06,175855.30,0.0180,70.35
+Asia,Desktop,older,2504,45.74,114521.60,0.0274,68.72
+Europe,Laptop,older,2192,49.76,109069.70,0.0124,27.27
+Europe,Desktop,older,1445,45.33,65507.90,0.0113,16.38
