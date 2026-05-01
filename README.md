@@ -16,7 +16,7 @@ The analysis focuses on three main questions:
 2. Which device types, age groups, and regions contributed the most impact?
 3. Where should repurposing efforts be prioritized to improve future environmental impact?
 
-The raw CSV files and local PostgreSQL database are not included in this repository because of file size and course-data sharing limitations. Instead, this repository includes the SQL workflow and exported aggregate analysis outputs.
+The raw CSV files and local PostgreSQL database are not included in this repository because of file size limitations. Instead, this repository includes the SQL workflow and exported aggregate analysis outputs.
 
 ---
 
